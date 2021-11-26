@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T18:15:14.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="uinfB0nCmd8GEPg0bT02" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T18:15:55.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="qeAx4PG2rcnSuzcPOLgt" version="15.8.6" type="github">
   <diagram id="lEFh3jHCK-Ihd6-fgnPO" name="Page-1">
-    <mxGraphModel dx="1421" dy="1501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2264" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="g2iIuDvxWhIR8F49OHt_-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="g2iIuDvxWhIR8F49OHt_-6">
           <mxGeometry y="100" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="g2iIuDvxWhIR8F49OHt_-9" value="+ static reserve(Ticker, Viewer): void&#xa;+ static buy(Ticker, Viewer): void&#xa;+ calculatePrice(): int&#xa;- isAvaliable(): bolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g2iIuDvxWhIR8F49OHt_-6">
+        <mxCell id="g2iIuDvxWhIR8F49OHt_-9" value="+ static reserve(Ticker, Viewer): void&#xa;+ static buy(Ticker, Viewer): void&#xa;+ static calculatePrice(Ticket): int&#xa;- isAvaliable(): bolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g2iIuDvxWhIR8F49OHt_-6">
           <mxGeometry y="108" width="210" height="72" as="geometry" />
         </mxCell>
         <mxCell id="g2iIuDvxWhIR8F49OHt_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;horizontal=1;endFill=1;endArrow=diamondThin;endSize=24;entryX=0.554;entryY=1.076;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;" edge="1" parent="1" source="g2iIuDvxWhIR8F49OHt_-22">
